@@ -1,0 +1,363 @@
+canonical_identifier: bkk:krp/KR3eq033/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq033/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 柳寶詒醫論醫案
+  identifiers:
+    krp: KR3eq033
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq033.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq033_000-jc.yaml, hash: 'sha256:ca9050eef313bb3462b8f9a6a9ed1f40436f9f1c2f8275328e0d41e18408a918'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq033_000-jc.markers.yaml, hash: 'sha256:8b1bbf2f6070b6a130476d68ddfee5679e40ceba1014571d649820f3f2e1be4a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 11693
+  label: 醫論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d2
+    span:
+    - body
+    - 2
+    - 675
+  label: 論溫邪上受首先犯肺逆傳心包溫熱論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d3
+    span:
+    - body
+    - 675
+    - 1231
+  label: 傷寒多有變證溫熱雖久在一經不移以此為辨解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d4
+    span:
+    - body
+    - 1231
+    - 2027
+  label: 論暴感溫邪與伏氣發溫初起見證如何分別用藥之法同異若何
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d5
+    span:
+    - body
+    - 2027
+    - 3976
+  label: 教言
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d6
+    span:
+    - body
+    - 3976
+    - 4819
+  label: 胸脅痛論秦皇士傷寒大白
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d7
+    span:
+    - body
+    - 4819
+    - 4924
+  label: 伏溫論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d8
+    span:
+    - body
+    - 4924
+    - 5798
+  label: 書溫病條辨後
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d9
+    span:
+    - body
+    - 5798
+    - 6336
+  label: 霍亂論序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d10
+    span:
+    - body
+    - 6336
+    - 6965
+  label: 霍亂證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d11
+    span:
+    - body
+    - 6965
+    - 8243
+  label: 伏暑論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d12
+    span:
+    - body
+    - 8243
+    - 9035
+  label: 呂文清痢疾論治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d13
+    span:
+    - body
+    - 9035
+    - 9690
+  label: 咳嗽病原虛實證治通論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d14
+    span:
+    - body
+    - 9690
+    - 10195
+  label: 咳嗽續論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d2d15
+    span:
+    - body
+    - 10195
+    - 11693
+  label: 肝病證治條例
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3.h1s1
+    span:
+    - body
+    - 11693
+    - 31932
+  label: 醫案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d2
+    span:
+    - body
+    - 11695
+    - 12864
+  label: 痢疾門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d3
+    span:
+    - body
+    - 12864
+    - 13343
+  label: 便血門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d4
+    span:
+    - body
+    - 13343
+    - 16924
+  label: 肝氣門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d5
+    span:
+    - body
+    - 16924
+    - 18018
+  label: 肝火門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d6
+    span:
+    - body
+    - 18018
+    - 18499
+  label: 嘔門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d7
+    span:
+    - body
+    - 18499
+    - 18959
+  label: 噯噦門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d8
+    span:
+    - body
+    - 18959
+    - 19889
+  label: 噎膈門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d9
+    span:
+    - body
+    - 19889
+    - 20231
+  label: 痹門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d10
+    span:
+    - body
+    - 20231
+    - 23069
+  label: 臌脹門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d11
+    span:
+    - body
+    - 23069
+    - 24534
+  label: 腫門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d12
+    span:
+    - body
+    - 24534
+    - 25589
+  label: 瘕癖門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d13
+    span:
+    - body
+    - 25589
+    - 26164
+  label: 瘀血門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d14
+    span:
+    - body
+    - 26164
+    - 27420
+  label: 崩漏門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d15
+    span:
+    - body
+    - 27420
+    - 29019
+  label: 調經門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d16
+    span:
+    - body
+    - 29019
+    - 29885
+  label: 少腹痛門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d17
+    span:
+    - body
+    - 29885
+    - 30291
+  label: 胎前門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d18
+    span:
+    - body
+    - 30291
+    - 30648
+  label: 產後門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq033_jc_000-d3d19
+    span:
+    - body
+    - 30648
+    - 31932
+  label: 雜證門
+  type: section
+  level: 2
+hash: sha256:7a5061da33b5ba3d3ff55faf46ba624bcf066ca75720fb8e5c15c6298d5fa187
