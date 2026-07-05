@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq033_000.yaml, hash: 'sha256:63839046ca128028ebd816f0593962895673c12d9ed93577d7790772dd3d6d9c'}
+  - {seq: 0, filename: KR3eq033_000.yaml, hash: 'sha256:ca9050eef313bb3462b8f9a6a9ed1f40436f9f1c2f8275328e0d41e18408a918'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq033_000.markers.yaml, hash: 'sha256:246b89258cad037a9f053eeed6130559ea31cd84618b70ef2cc2eff7699073d5'}
+  - {seq: 0, role: markers, filename: assets/KR3eq033_000.markers.yaml, hash: 'sha256:748104e2606f96101d4733c6311446f147c19437e5b596c65c46f90fab89d271'}
 table_of_contents:
 - ref:
     seq: 0
@@ -360,7 +360,4 @@ table_of_contents:
   label: 雜證門
   type: section
   level: 2
-hash: sha256:ddabecbd9e06c6f2c23d862b7b7ffece62d80483519f990b5e57a2364ef0f526
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:afc9837310d2313b9ecfd05a4f813dcddd97f23fc9178710d7b394a401acae59
