@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq033_000.yaml, hash: 'sha256:d93ed73472804845f3885196a30e6d16c02cfc66a8d13f62d9fb8bc5df5e8909'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq033_000.markers.yaml, hash: 'sha256:bab3afa7a8d4df73bc41931112f17300940358e6aac18b2fce888b57c79a0e32'}
+  - {seq: 0, role: markers, filename: assets/KR3eq033_000.markers.yaml, hash: 'sha256:c334b241015a62d657a7d7ee525f75357dff71a57753a9d79abecbfe44085619'}
 table_of_contents:
 - ref:
     seq: 0
@@ -360,7 +360,7 @@ table_of_contents:
   label: 雜證門
   type: section
   level: 2
-hash: sha256:cf043b81933c2fb747269caaf31978b867f3cf3372d0678d3b5cd98648d8d602
+hash: sha256:c9400543eab449f1dae0d9a2d2134c4c1b9d56df72cb879a141507427f4333fe
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
